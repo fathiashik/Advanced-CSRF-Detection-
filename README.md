@@ -24,7 +24,7 @@ This repository houses an advanced Nmap script designed for detecting Cross-Site
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/fathiashik/csrf-detection-script.git
+    git clone https://github.com/fathiashik/csrf-detection-.git
     cd csrf-detection-script
     ```
 
